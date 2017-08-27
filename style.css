@@ -225,7 +225,7 @@ hr
 
 .main-banner
 {
-    background: url(../images/Hero-img.jpg);
+    background: url(Hero-img.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -290,7 +290,7 @@ hr
 #about
 {
     padding: 134px 0;
-    background: url(../images/blue.jpg);
+    background: url(blue.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -418,7 +418,7 @@ hr
     transform: scale(1.2);
 }
 
-      /*Services Styling Starts here*/
+      /*Services */
 
 #services
 {
@@ -520,7 +520,7 @@ hr
 
 #facts
 {
-    background: url(../images/Fun-facts-img.jpg);
+    background: url(Fun-facts-img.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
